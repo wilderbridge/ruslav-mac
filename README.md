@@ -21,7 +21,9 @@ Command + Shift layout:
 
 ## Credits
 
-Created using [Ukulele](http://scripts.sil.org/ukelele). Kudos to Helsinki University Department of Slavic and Baltic Studies for providing [RuSlav to Windows](https://blogs.helsinki.fi/slavbalt-atk/)
+Created using [Ukulele](http://scripts.sil.org/ukelele).
+
+Kudos to Helsinki University Department of Slavic and Baltic Studies for providing [RuSlav to Windows](https://blogs.helsinki.fi/slavbalt-atk/)
 
 ## Licence
 
