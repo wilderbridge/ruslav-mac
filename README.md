@@ -11,7 +11,7 @@ An adaption of RuSlav keyboard layout to Macs. Useful if you are mainly a fi/swe
 ## Screenshots
 
 Lowercase layout: 
-![lowercase layout](https://github.com/tanskann/ruslav-mac/raw/master/images/lowercase.png "Lowercase layout"")
+![lowercase layout](https://github.com/tanskann/ruslav-mac/raw/master/images/lowercase.png "Lowercase layout")
 
 Uppercase layout:
 ![uppercase layout](https://github.com/tanskann/ruslav-mac/raw/master/images/uppercase.png "Uppercase layout")
