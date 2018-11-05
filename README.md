@@ -13,12 +13,6 @@ An adaption of RuSlav keyboard layout to Macs. Useful if you are mainly a fi/swe
 Lowercase layout: 
 ![lowercase layout](https://github.com/tanskann/ruslav-mac/raw/master/images/lowercase.png "Lowercase layout")
 
-Uppercase layout:
-![uppercase layout](https://github.com/tanskann/ruslav-mac/raw/master/images/uppercase.png "Uppercase layout")
-
-Command + Shift layout:
-![command+shift](https://github.com/tanskann/ruslav-mac/raw/master/images/cmd_shift.png "Command + Shift layout")
-
 ## Credits
 
 Created using [Ukulele](http://scripts.sil.org/ukelele).
